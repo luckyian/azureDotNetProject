@@ -1,0 +1,5 @@
+C:\Users\ianwr\developer\azureDotNetProject\obj\Debug\net7.0\CatWorx.BadgeMaker.csproj.AssemblyReference.cache
+C:\Users\ianwr\developer\azureDotNetProject\obj\Debug\net7.0\CatWorx.BadgeMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianwr\developer\azureDotNetProject\obj\Debug\net7.0\CatWorx.BadgeMaker.AssemblyInfoInputs.cache
+C:\Users\ianwr\developer\azureDotNetProject\obj\Debug\net7.0\CatWorx.BadgeMaker.AssemblyInfo.cs
+C:\Users\ianwr\developer\azureDotNetProject\obj\Debug\net7.0\CatWorx.BadgeMaker.csproj.CoreCompileInputs.cache
