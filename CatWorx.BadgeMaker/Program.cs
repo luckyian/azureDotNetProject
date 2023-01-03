@@ -1,8 +1,13 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-string[] favFoods = new string[4]{ "pizza", "doughnuts", "icecream", "tacos" };
-string firstFood = favFoods[0];
-string secondFood = favFoods[1];
-string thirdFood = favFoods[2];
-string fourthFood = favFoods[3];
-Console.WriteLine("I like {3}, {2}, and {0}", firstFood, secondFood, thirdFood);
+List<string> employees = new List<string>() { "adam", "amy" };
+      employees.Add("barbara");
+      employees.Add("billy");
+      Console.WriteLine("Please enter a name: ");
+      // Get a name from the console and assign it to a variable
+      string input = Console.ReadLine();
+      employees.Add(input);
+      for (int i = 0; i < employees.Count; i++) 
+      {
+        Console.WriteLine(employees[i]);
+      }
