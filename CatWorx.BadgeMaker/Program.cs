@@ -1,6 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-List<string> employees = new List<string>() { "adam", "amy" };
+static void Main(string[] args)
+    {
+      List<string> employees = new List<string>() { "adam", "amy" };
       employees.Add("barbara");
       employees.Add("billy");
       Console.WriteLine("Please enter a name: ");
@@ -11,3 +13,4 @@ List<string> employees = new List<string>() { "adam", "amy" };
       {
         Console.WriteLine(employees[i]);
       }
+    }
