@@ -1,6 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using System;
-using System.Collections.Generic;
+
 
 
 static void Main(string[] args)
