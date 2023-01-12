@@ -2,7 +2,7 @@
 
 
 
-static void Main(string[] args)
+
     {
       List<string> employees = new List<string>() { "adam", "amy" };
       employees.Add("barbara");
