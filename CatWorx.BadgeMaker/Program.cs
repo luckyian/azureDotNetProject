@@ -8,6 +8,7 @@
       employees.Add("barbara");
       employees.Add("billy");
       employees.Add("Ian");
+      employees.Remove("adam");
       Console.WriteLine("Please enter a name: ");
       // Get a name from the console and assign it to a variable
       string input = Console.ReadLine();
