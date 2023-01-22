@@ -5,8 +5,8 @@
 
     {
       List<string> employees = new List<string>() { "adam", "amy" };
-      employees.Add("barbara");
-      employees.Add("billy");
+      employees.Add("Barbara");
+      employees.Add("Billy");
       employees.Add("Ian");
       employees.Remove("adam");
       Console.WriteLine("Please enter a name: ");
